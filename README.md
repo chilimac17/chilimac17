@@ -19,7 +19,7 @@
 
 // README.md-->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chilimac17&layout=compact&bg_color=#000000&title_color=#32CD32)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chilimac17&theme=highcontrast&show_icons=true&count_private=true&bg_color=#000000&title_color=#32CD32)
 
