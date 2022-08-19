@@ -23,6 +23,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chilimac17&theme=highcontrast&show_icons=true&count_private=true&bg_color=#000000&title_color=#32CD32)
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chilimac17&show_icons=true&locale=en" alt="chilimac17" /></p>-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chilimac17&theme=merko)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chilimac17&" alt="chilimac17" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chilimac17&show_icons=true&locale=en" alt="chilimac17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chilimac17&" alt="chilimac17" /></p>-->
