@@ -25,6 +25,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chilimac17&theme=merko)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chilimac17&theme=react-dark)](https://github.com/chilimac17/github-readme-activity-graph)
+
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chilimac17&show_icons=true&locale=en" alt="chilimac17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chilimac17&" alt="chilimac17" /></p>-->
