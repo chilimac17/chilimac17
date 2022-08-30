@@ -32,12 +32,13 @@ using namespace Education{
 ```
 
 ```Java
-import java.util.ArrayList;
-import java.util.LinkedList;
-
 public class ProgrammingLanguages{
     ArrayList<String> programming_language_list = new ArrayList<String>();
     LinkedList<String> mark_up_language_list = new LinkedList<String>();
+
+    public ProgrammingLanguages{
+        fill_list(programming_language_list, mark_up_language_list);
+    }
 
     public void fill_list(ArrayList<String> program_list, LinkedList<String> mark_up_list){
         program_list.add("Java");
