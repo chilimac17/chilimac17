@@ -9,18 +9,13 @@
 
 <p align="center">You can reach me at michaelchillemi17@gmail.com</P>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
+```Python
 class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Michael Chillemi"
         self.role = "Software Engineer"
         
-
 me = SoftwareEngineer()
 ```
 
@@ -32,11 +27,8 @@ using namespace Education{
 
     class Certification{
         std::string certification = "CompTIA Security+"
-    };
-    
+    };   
 };
-
-
 ```
 
 ```Java
@@ -45,7 +37,6 @@ import java.util.LinkedList;
 
 public class ProgrammingLanguages{
     ArrayList<String> programming_language_list = new ArrayList<String>();
-
     LinkedList<String> mark_up_language_list = new LinkedList<String>();
 
     public void fill_list(ArrayList<String> program_list, LinkedList<String> mark_up_list){
@@ -60,10 +51,10 @@ public class ProgrammingLanguages{
         mark_up_list.add("HTML");
         mark_up_list.add("CSS");
     }
-
 }
 
 ```
+
 ```Bash
 #!/bin/bash
 
@@ -73,5 +64,4 @@ declare -a skills
 skills += "Linux" "Windows" "Visual Studio Code" "Data Structures" "Object Oriented Programming" "Quality Assurance" "Windows Development Life Cycle"
 
 echo "${skills[@]}"
-
 ```
