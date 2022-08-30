@@ -28,7 +28,7 @@ using namespace Education{
     class Certification{
         std::string certification = "CompTIA Security+"
     };   
-};
+}
 ```
 
 ```Java
