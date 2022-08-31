@@ -2,10 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chilimac17&label=Profile%20views&color=0e75b6&style=flat" alt="chilimac17" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michaelchillemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelchillemi" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me:
+    <a href="https://linkedin.com/in/michaelchillemi" target="blank">
+        <img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelchillemi" height="30" width="40" />
+    </a>
+</h3>
+
 
 <p align="center">You can reach me at michaelchillemi17@gmail.com</P>
 
@@ -37,7 +39,7 @@ public class ProgrammingLanguages{
     LinkedList<String> mark_up_language_list = new LinkedList<String>();
 
     public ProgrammingLanguages{
-        fill_list(programming_language_list, mark_up_language_list);
+        this.fill_list(programming_language_list, mark_up_language_list);
     }
 
     public void fill_list(ArrayList<String> program_list, LinkedList<String> mark_up_list){
