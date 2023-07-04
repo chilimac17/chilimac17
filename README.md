@@ -11,7 +11,7 @@
 
 <p align="center">You can reach me at michaelchillemi17@gmail.com</P>
 
-[![Michael Chillemi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=chillimac17&theme=algolia&show_icons=true)](https://github.com/chillimac17)
+[![Michael Chillemi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=chilimac17&theme=algolia&show_icons=true)](https://github.com/chilimac17)
 
 ```Python
 class SoftwareEngineer:
